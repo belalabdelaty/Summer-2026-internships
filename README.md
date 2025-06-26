@@ -1,15 +1,10 @@
-# Summer 2026 Tech Internships 🧑‍💻
+# Summer 2026 Tech Internships 💻
 
-Collection of Summer 2026 internship opportunities in tech!
-
-📢 For off-season internships, see the [Off-Season README](./Off-Season.md)  
-🚀 For new-grad tech jobs, check out [New-Grad](./New-Grad.md)  
+Collection of Summer 2026 internship opportunities in tech in EMEA and the USA!
 
 ## 📌 Legend
 - 🔒 – Internship application is closed  
-- 🇺🇸 – Requires U.S. Citizenship  
 - 🛑 – Does NOT offer sponsorship  
-
 ---
 
 ## 📋 Internship List
@@ -20,3 +15,4 @@ Collection of Summer 2026 internship opportunities in tech!
 | Lockheed Martin  | Software Engineer - Intern us 🇺🇸              | Annapolis Junction, Maryland     | [Apply](#)       | Jun 24      |
 | D. E. Shaw       | Software Developer Intern – Summer 2026        | New York                         | [Apply](#)       | Jun 24      |
 | Citadel Securities| Trading Fundamental Analyst Intern             | Miami, FL / New York, NY         | [Apply](#)       | Jun 16      |
+| Testing it        | ay haga                                        | alexx                            |  🔒             |  30 jun      |
