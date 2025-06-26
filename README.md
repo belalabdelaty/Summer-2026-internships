@@ -1,6 +1,6 @@
 # Summer 2026 Tech Internships 💻
 
-Collection of Summer 2026 internship opportunities in tech in EMEA and the USA!
+Collection of Summer 2026 internship opportunities in tech in EMEA and the USA(remote or doesn't require a visa )!
 
 ## 📌 Legend
 - 🔒 – Internship application is closed  
