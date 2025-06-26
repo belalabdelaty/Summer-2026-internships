@@ -2,7 +2,7 @@
 
 Collection of Summer 2026 internship opportunities in tech in the USA(remote or provide visa sponsorship) and EMEA
  
-🔒 – Internship application is closed  
+- 🔒 – Internship application is closed  
 ---
 
 ## 📋 Internship List
