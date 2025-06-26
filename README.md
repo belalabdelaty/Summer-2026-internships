@@ -1,6 +1,6 @@
-# Summer 2026 Tech Internships 💻
+# Summer 2025 Tech Internships 💻
 
-Collection of Summer 2026 internship opportunities in tech in the USA(remote or provide visa sponsorship) and EMEA
+Collection of Summer 2025 internship opportunities in tech in the USA(remote or provide visa sponsorship) and EMEA
 
  ---
 
